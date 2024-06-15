@@ -22,7 +22,7 @@ def count_vowel(s):
 
 i_p=[["alex","im going out"],
      ["sam","i love playing"],
-     ["ani","education is important"]]
+     ["ani","i like playing basketball"]]
 
 o_p={}
 
