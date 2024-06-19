@@ -16,14 +16,9 @@ OOPS
 </b></summary>
 OOPS,Prime key
 </details>
-<details>
-<summary><b>Day 4:</p>
-</b></summary>
-Problem statements- Occurance of vowels,
-Sliding window
-</details>
-<details>
-<summary><b>Day 4:</p>
-</b></summary>
-Stack and Queue,Link lists
-</details>
+
+Day 6:Problem statements- Occurance of vowels</p>
+Sliding window</p>
+
+Day5: Stack and Queue,Link lists
+
