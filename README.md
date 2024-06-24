@@ -9,5 +9,6 @@ Day 5: Stack and Queue,Link lists</p>
 Day 6: Sorting</p>
 Day 7: Tree</p>
 Day 8: Graph</p>
+Day 9: AVL tree,problem statements</p>
 
     
