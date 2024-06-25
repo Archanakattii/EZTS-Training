@@ -10,5 +10,7 @@ Day 6: Sorting</p>
 Day 7: Tree</p>
 Day 8: Graph</p>
 Day 9: AVL tree,problem statements</p>
+Day 10: leetcode problems</p>
+Day 11: Greedy algorithm-knapsack</p>
 
     
