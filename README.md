@@ -12,5 +12,6 @@ Day 8: Graph</p>
 Day 9: AVL tree,problem statements</p>
 Day 10: leetcode problems</p>
 Day 11: Greedy algorithm-knapsack</p>
+Day 12: Lambda function,Greedy algo-dynamic programming</p>
 
     
