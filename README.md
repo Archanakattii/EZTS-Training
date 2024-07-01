@@ -1,7 +1,7 @@
 # **20 DAYS PYTHON TRAINING**
 
 
-Day 1: Lists,Filehandling</p>
+Day 1: Lists,Filehandling (test120_01 and file handling) </p>
 Day 2: OOPS</p>
 Day 3: OOPS,Prime key</p>
 Day 4: Problem statements- Occurance of vowels,Sliding window</p>
