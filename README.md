@@ -16,4 +16,6 @@ Day 12: Lambda function,Greedy algo-dynamic programming</p>
 Day 13: Prims's algo,Kruskal algo</p>
 Day 14: Bellman ford algo,dijkstra algo,dynamic programming using recursion</p>
 Day 15: KMP algorithm-lps,Tower of Hanoi</p>
+Day 16: Hashing</p>
+Day 17: leetcode problems</p>
     
